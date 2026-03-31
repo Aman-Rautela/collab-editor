@@ -9,7 +9,6 @@ A real-time collaborative code editor with multi-user support, live cursor track
 - ⚡ Monaco Editor (VS Code-like experience)  
 - 🎯 Live user presence & cursor tracking  
 - 🖥️ Built-in terminal output panel  
-- 📋 Shareable room link for collaboration  
 - 🐳 Dockerized full-stack deployment  
 
 ## 🛠️ Tech Stack
@@ -34,7 +33,7 @@ http://localhost:5000
 
 ## 🌐 Live Demo
 
-(Add your Render link here after deployment)
+https://collab-editor-5ryv.onrender.com
 
 ## 🧠 How it Works
 
